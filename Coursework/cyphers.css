@@ -1,0 +1,14 @@
+body{ 
+       
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 50px;
+}
+p{text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
